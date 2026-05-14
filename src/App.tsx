@@ -829,12 +829,12 @@ function Contact() {
                       WhatsApp / Teléfono
                     </p>
                     <a
-                      href="https://wa.me/522204613750"
+                      href="https://wa.me/525517612332"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-amber-100 hover:text-amber-400 transition-colors font-serif text-lg"
                     >
-                      220 461 3750
+                      55 1761 2332
                     </a>
                   </div>
                 </div>
@@ -860,12 +860,12 @@ function Contact() {
                       Instagram
                     </p>
                     <a
-                      href="https://instagram.com/bocadofino_catering"
+                      href="https://www.instagram.com/bocado_fino_catering"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-amber-100 hover:text-amber-400 transition-colors font-serif"
                     >
-                      @bocadofino_catering
+                     @bocado_fino_catering
                     </a>
                   </div>
                 </div>
@@ -941,7 +941,7 @@ function Contact() {
                   />
                 </div>
                 <a
-                  href="https://wa.me/522204613750?text=Hola,%20me%20gustaría%20hacer%20una%20reservación%20con%20Bocado%20Fino%20Catering"
+                  href="https://wa.me/525517612332?text=Hola,%20me%20gustaría%20hacer%20una%20reservación%20con%20Bocado%20Fino%20Catering"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-gold w-full text-center block"
@@ -1023,7 +1023,7 @@ function Footer() {
 function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/522204613750?text=Hola,%20me%20interesa%20hacer%20un%20pedido%20con%20Bocado%20Fino%20Catering"
+      href="https://wa.me/525517612332?text=Hola,%20me%20interesa%20hacer%20un%20pedido%20con%20Bocado%20Fino%20Catering"
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-btn"
