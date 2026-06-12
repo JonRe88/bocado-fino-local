@@ -269,35 +269,35 @@ function MenuSection() {
       description: "Nuestra joya de la corona. Un croissant de hojaldre aireado y mantequilloso, relleno con láminas seleccionadas de jamón y queso fundente. El equilibrio perfecto entre tradición y elegancia.",
       price: "$12.50 c/u",
       badge: "Estrella",
-      image: "Gemini_Generated_Image_wa7cl5wa7cl5wa7c.jpg"
+      image: "Crois.png"
     },
     {
       name: "Petit D'Or",
       description: "Pequeñas esferas de pan artesanal con una corteza dorada y un corazón tierno. Horneados lentamente para resaltar el sabor natural de la harina seleccionada. Ideales para cualquier charla íntima.",
       price: "$12.50 c/u",
       badge: "Gourmet",
-      image: "Gemini_Generated_Image_yw9zqayw9zqayw9z.jpg"
+      image: "public/Crois.png"
     },
     {
       name: "Triángulos de Seda",
       description: "Sándwiches de miga ultra finos, preparados con pan blanco premium. Una opción ligera y clásica, con rellenos frescos que se deshacen en el paladar. La delicadeza convertida en bocado.",
       price: "$12.50 c/u",
       badge: "Clásico",
-      image: "Gemini_Generated_Image_26obfy26obfy26ob.jpg"
+      image: "public/Crois.png"
     },
     {
       name: "Rolls Semillados de Autor",
       description: "Rollitos de masa suave enriquecidos con un toque de semillas tostadas. Un sabor rústico y sofisticado que aporta una textura única y un aroma irresistible a tu mesa.",
       price: "$12.50 c/u",
       badge: "Especial",
-      image: "5 ・ Extra Large@1x.jpg"
+      image: "public/Crois.png"
     },
     {
       name: "Hojaldres Gourmet",
       description: "Hojaldres crujientes rellenos con preparaciones premium. Cada bocado ofrece capas perfectas de masa hojaldrada con rellenos cuidadosamente seleccionados.",
       price: "$12.50 c/u",
       badge: "Premium",
-      image: "MENUACTUALIZADO.jpg"
+      image: "public/Crois.png"
     },
     {
       name: "Personalización",
@@ -305,7 +305,7 @@ function MenuSection() {
       price: "A consultar",
       badge: "Exclusivo",
       isCustom: true,
-      image: "Letter.png"
+      image: "public/Crois.png"
     },
   ];
 
